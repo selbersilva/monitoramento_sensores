@@ -1,0 +1,5 @@
+requests
+pandas
+SQLAlchemy
+paho-mqtt
+RPi.GPIO
